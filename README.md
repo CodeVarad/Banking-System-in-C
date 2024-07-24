@@ -10,7 +10,7 @@ This project was developed using Visual Studio Code with a MinGW environment set
 
 ### Compilation and Execution
 
- **You can run the Project straight away from the main.exe file.**Double click in the main.exe file to run it or..
+ __You can run the Project straight away from the main.exe file.__ Double click in the main.exe file to run it or..
 
 1. **Compile the Project**:
    - Open the terminal in VSCode or use your preferred command line tool.
