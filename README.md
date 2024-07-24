@@ -33,7 +33,7 @@ This project was developed using Visual Studio Code with a MinGW environment set
 
 ## File Structure
 
-- `banking_system.c`: Main source file containing the implementation of the banking system.
+- `main.c`: Main source file containing the implementation of the banking system.
 - `accounts.txt`: File where account details are stored (created automatically).
 - `README.md`: This file, containing project details and instructions.
 
