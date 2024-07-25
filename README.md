@@ -1,5 +1,12 @@
 # Banking System in C
 
+## TODO
+
+- Add more functionality to the project.
+- Function to pay others with their account numbers.
+- Tax on transfering money above a certain limit.
+- Proper execution to every function.
+
 ## Overview
 
 This project is a basic banking system implemented in C. It allows users to create accounts, deposit and withdraw money, and check their account balance. The system stores account details in a text file and includes validation to handle duplicate accounts and ensure correct credentials for transactions.
